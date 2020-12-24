@@ -1,0 +1,2 @@
+@import "android2weixin-liteavsdk_trtc/onekit";
+@import "./res/values/colors";

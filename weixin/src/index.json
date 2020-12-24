@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "ad": "./ui/ad/ad"
+  }
+}
