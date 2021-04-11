@@ -1,5 +1,8 @@
 {
   "pages":[
     "java/com/tencent/trtcsimpledemo/MainActivity"
-  ]
+  ],
+  "usingComponents": {
+    "onekit-View"
+  }
 }

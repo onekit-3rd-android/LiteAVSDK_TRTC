@@ -1,7 +1,6 @@
 <view style="display:flex;background:var(--live_main_bg);width:100%;height:100%;flex-direction:column;">
 
-  <View
-  s
+  <onekit-View
         android:id="@+id/launch_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
